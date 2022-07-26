@@ -24,3 +24,32 @@ a {
     background: black;
   }
 }
+.mainWidth{
+  width: 50vw;
+}
+.formField{
+  width: 70% !important;
+  border-radius: 20px !important;
+}
+.signinBtn{
+  width: 300px;
+  border-radius: 20px !important;
+  background-color: #3EA2E0 !important;
+  color: white !important;
+}
+.plainAnchor{
+  text-decoration: none;
+  color: #fff;
+}
+.fbBtn{
+  width: 300px;
+  background-color: #3B5998;
+  color: #fff;
+  border-radius: 20px;
+  height: 40px;
+  border: none;
+  }
+  .googlebtn{
+    background-color: #f0f0f0;
+    color: black;
+  }
